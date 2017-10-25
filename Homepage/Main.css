@@ -6,6 +6,7 @@ body
 #Headder
 {
 	background-color: #FFFFFF;
+	text-decoration: none;
 	position: absolute;
 	padding: 0%;
 	margin: 0%;
@@ -53,6 +54,8 @@ body
 #Headder ul li
 {
 	display: inline-block;
+	text-decoration: none;
+	color: black;
 	font-size: 30px;
 	padding: 40px;
 }
@@ -63,6 +66,7 @@ body
 	top: -30%;
 	left: 30%;
 }
+
 
 #Jumbotron
 {
@@ -83,6 +87,7 @@ body
 #Learn-More
 {
 	position: absolute;
+	text-decoration: none;
 	left: 44%;
 	background-color: #FF9653;
 	text-align: center;
@@ -94,6 +99,7 @@ body
 #Button-Text
 {
 	font-family: arial;
+	text-decoration: none;
 	position: absolute;
 	display: inline-block;
 	left: 3%;
@@ -113,4 +119,100 @@ body
 	height: 30%;
 	width: 100%;
 	background-color: #FFFFFF;
+}
+
+#Web-Dev-About
+{
+	position: absolute;
+	font-family: arial;
+	top: 48%;
+	left: 10%;
+}
+
+#Social-Media-About
+{
+	position: absolute;
+	font-family: arial;
+	top: 48%;
+	left: 44%;
+}
+
+#Testemonials-About
+{
+	position: absolute;
+	font-family: arial;
+	top: 48%;
+	left: 75%
+}
+
+#DevImgLogo
+{
+	position: absolute;
+	top: -65%;
+	left: 20%;
+	height: 60%;
+}
+
+#SocalImgLogo
+{
+	position: absolute;
+	top: -65%;
+	left: 33%;
+	height: 55%;
+}
+
+#TestimonialsImg
+{
+	position: absolute;
+	top: -65%;
+	left: 20%;
+	height: 56%;
+}
+
+#Content-Area-2
+{
+	position: absolute;
+	top: 99%;
+	left: 0%;
+	width: 100%;
+	height: 60%;
+	background-color: #3E484F;
+}
+
+#Web-Dev-Img
+{
+	position: absolute;
+	height: 50%;
+	width: 16%;
+	top: 10%;
+	float: right;
+}
+
+#Web-Dev-Img-Text
+{
+	position: absolute;
+	left: 20%;
+	top: 7%;
+	font-size: 20px;
+	float: right;
+	font-family: arial;
+	color: white;
+}
+
+#Web-Dev-Img-2
+{
+	position: absolute;
+	height: 30%;
+	right: 0%;
+	top: 130%;
+}
+
+#Web-Dev-Img-Text-2
+{
+	position: absolute;
+	right: 20%;
+	top: 135%;
+	font-family: arial;
+	color: white;
+	font-size: 20px;
 }
