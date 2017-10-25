@@ -1,0 +1,116 @@
+body
+{
+	background-color: #F5F5F5;
+}
+
+#Headder
+{
+	background-color: #FFFFFF;
+	position: absolute;
+	padding: 0%;
+	margin: 0%;
+	left: 0%;
+	top: 0%;
+	width: 100%;
+	height: 9%;
+}
+
+#Facebook
+{
+	position: absolute;
+	right: 15%;
+	height: 5%;
+	top: 2%;
+
+}
+
+#Instergram
+{
+	position: absolute;
+	right: 10%;
+	height: 5.5%;
+	top: 2%;
+}
+
+#Twitter
+{
+	position: absolute;
+	right: 5%;
+	height: 5%;
+	width: 3%;
+	top: 2.3%;
+}
+
+#Main-Title
+{
+	position: absolute;
+	left: 10%;
+	top: 26%;
+	font-family: arial;
+	font-size: 35px;
+}
+
+#Headder ul li
+{
+	display: inline-block;
+	font-size: 30px;
+	padding: 40px;
+}
+
+#NavBar
+{
+	position: absolute;
+	top: -30%;
+	left: 30%;
+}
+
+#Jumbotron
+{
+	position: absolute;
+	color: #3D4040;
+	font-size: 50px;
+	font-family: arial;
+	text-align: center;
+	left: 0%;
+	top: 9%;
+	height: 60%;
+	width: 100%;
+	background-color: #8AF5F5;
+	background-image: url(JumbotronMainImg.JPG);
+
+}
+
+#Learn-More
+{
+	position: absolute;
+	left: 44%;
+	background-color: #FF9653;
+	text-align: center;
+	width: 10%;
+	height: 10%;
+
+}
+
+#Button-Text
+{
+	font-family: arial;
+	position: absolute;
+	display: inline-block;
+	left: 3%;
+	top: -110%;
+}
+
+.special
+{
+	color: #FFFFFF;
+}
+
+#Services
+{
+	position: absolute;
+	left: 0%;
+	top: 69%;
+	height: 30%;
+	width: 100%;
+	background-color: #FFFFFF;
+}
