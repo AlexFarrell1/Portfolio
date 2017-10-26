@@ -216,3 +216,70 @@ body
 	color: white;
 	font-size: 20px;
 }
+
+#Testimonials-Section
+{
+	position: absolute;
+	background-color: #C7E9FF;
+	color: #2465E8;
+	text-align: center;
+	font-size: 30px;
+	font-family: arial;
+	left: 0%;
+	height: 60%;
+	width: 100%;
+	top: 158%;
+}
+
+#Testimonials-Section-Under-Headder
+{
+	color: #6B6E6C;
+}
+
+#Testimonials-Section-Imges-1
+{
+	position: absolute;
+	left: 46%;
+	height: 30%;
+}
+
+#Testimonials-Section-Testimonials
+{
+	position: absolute;
+	top: 80%;
+	left: 42%;
+}
+
+#Footer
+{
+	position: absolute;
+	left: 0%;
+	top: 215%;
+	background-color: #2A3136;
+	height: 30%;
+	width: 100%;
+}
+
+#News-Hedder
+{
+	position: absolute;
+	font-family: arial;
+	left: 18%;
+	color: #D98F22;
+}
+
+#Social-Media-Footer-Info
+{
+	position: absolute;
+	font-family: arial;
+	left: 45%;
+	color: #D98F22;
+}
+
+#Get-In-Touch-Footer-Info
+{
+	position: absolute;
+	font-family: arial;
+	left: 74%;
+	color: #D98F22;
+}
