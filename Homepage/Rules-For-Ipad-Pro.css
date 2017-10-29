@@ -4,11 +4,21 @@
 {
 	position: absolute;
 	text-align: center;
-	left: 40%;
+	left: 33.3%;
 	top: 20%;
 	font-family: arial;
 	font-size: 35px;
 }
+
+#Website-Logo
+{
+	position: absolute;
+	height: 260%;
+	left: -80%;
+	top: -20%;
+
+}
+
 
 
 	#NavBar
@@ -107,3 +117,130 @@
 
 
 }
+
+
+@media only screen and (max-width: 1366px)
+{
+	#Main-Title
+{
+	position: absolute;
+	text-align: center;
+	left: 33.3%;
+	top: 12%;
+	font-family: arial;
+	font-size: 35px;
+}
+
+#Website-Logo
+{
+	position: absolute;
+	height: 215%;
+	left: -80%;
+	top: -20%;
+
+}
+
+
+
+	#NavBar
+{
+	position: absolute;
+	top: 22%;
+	left: 24%;
+}
+
+	#Services
+{
+	position: absolute;
+	left: 0%;
+	top: 52%;
+	height: 40%;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+
+	#Content-Area-2
+{
+	position: absolute;
+	top: 90%;
+	left: 0%;
+	width: 100%;
+	height: 66%;
+	background-color: #3E484F;
+}
+
+	#Web-Dev-Img
+{
+	position: absolute;
+	height: 25%;
+	width: 16%;
+	top: 10%;
+	float: right;
+}
+
+	#Web-Dev-Img-2
+{
+	position: absolute;
+	height: 30%;
+	right: 0%;
+	top: 120%;
+}
+
+	#Web-Dev-Img-Text-2
+{
+	position: absolute;
+	right: 37%;
+	top: 130%;
+	font-family: arial;
+	color: white;
+	font-size: 20px;
+}
+
+
+	#Testimonials-Section
+{
+	position: absolute;
+	background-color: #C7E9FF;
+	color: #2465E8;
+	text-align: center;
+	font-size: 30px;
+	font-family: arial;
+	left: 0%;
+	height: 60%;
+	width: 100%;
+	top: 150%;
+}
+
+	#Testimonials-Section-Imges-1
+{
+		position: absolute;
+		left: 39%;
+		height: 30%;
+}
+
+	#Testimonials-Section-Testimonials
+{
+	position: absolute;
+	top: 70%;
+	left: 37%;
+}
+
+	#Footer
+{
+	position: absolute;
+	left: 0%;
+	top: 200%;
+	background-color: #2A3136;
+	height: 20%;
+	width: 100%;
+}
+
+
+
+}
+
+
+
+
+/*CSS FILE WRITTEN BY ALEX FARRELL:
+ REACTIVE WITH THE IPAD PRO AND IPAD PRO SIZED DEVICES*/

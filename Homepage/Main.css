@@ -51,6 +51,15 @@ body
 	font-size: 35px;
 }
 
+#Website-Logo
+{
+	position: absolute;
+	height: 170%;
+	left: -40%;
+	top: -20%;
+
+}
+
 #Headder ul li
 {
 	display: inline-block;
@@ -283,3 +292,6 @@ body
 	left: 74%;
 	color: #D98F22;
 }
+
+/*CSS FILE WRITTEN BY ALEX FARRELL: REACTIVE WITH MOST 
+DESKTOP MONITORS*/
